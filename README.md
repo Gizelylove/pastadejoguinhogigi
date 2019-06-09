@@ -1,1 +1,1 @@
-# gizelylove/pastadejogos
+# gizelylove.github.io/pastadejogos
